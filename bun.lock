@@ -4,7 +4,7 @@
     "": {
       "name": "count-korean-stroke-page",
       "dependencies": {
-        "count-korean-stroke": "^1.0.0",
+        "count-korean-stroke": "^1.0.2",
       },
       "devDependencies": {
         "@eslint/compat": "^1.2.5",
@@ -270,7 +270,7 @@
 
     "cookie": ["cookie@0.6.0", "", {}, "sha512-U71cyTamuh1CRNCfpGY6to28lxvNwPG4Guz/EVjgf3Jmzv0vlDp1atT9eS5dDjMYHucpHbWns6Lwf3BKz6svdw=="],
 
-    "count-korean-stroke": ["count-korean-stroke@1.0.0", "", { "dependencies": { "count-korean-stroke": "file:.yalc/count-korean-stroke" }, "peerDependencies": { "typescript": "^5" } }, "sha512-2Mcac/pT3bQ0vEwLEtedlDk9GsiDla3+IZ26lA9EELL24WPK6Fdc+wrJn29wwoN/hqGldjOcq8t3kUEoARozww=="],
+    "count-korean-stroke": ["count-korean-stroke@1.0.2", "", { "dependencies": { "count-korean-stroke": "file:.yalc/count-korean-stroke" }, "peerDependencies": { "typescript": "^5" } }, "sha512-QbwiXiu3BSi9RPdDZVvXdEd7QRW9MqbIu1PutpVPD/yiVGyZL8ww1hqp+UzUWsC75tLi8xZ+KMBODEIKCqx+mQ=="],
 
     "cross-spawn": ["cross-spawn@7.0.6", "", { "dependencies": { "path-key": "^3.1.0", "shebang-command": "^2.0.0", "which": "^2.0.1" } }, "sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA=="],
 
