@@ -37,6 +37,6 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
-		"count-korean-stroke": "^1.0.2"
+		"count-korean-stroke": "^1.1.0"
 	}
 }
